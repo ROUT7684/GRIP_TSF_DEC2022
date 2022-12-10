@@ -1,6 +1,6 @@
 This banking management system have following features:
 Home page-About us-Customers-All about transactions
-This link also available on #link="chandanapnabank.netlify.app"
+This link also available on #link="https://chandanapnabank.netlify.app/"
 
 HOME PAGE!
 
